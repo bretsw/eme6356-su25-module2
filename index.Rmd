@@ -2,7 +2,7 @@
 title: "Module 2: Performance Analytics"
 subtitle: "EME6356: Learning & Web Analytics"
 author: "Dr. Bret Staudt Willet"
-date: "May 26, 2025"
+date: "May 19, 2025"
 output:
   xaringan::moon_reader:
     lib_dir: libs
